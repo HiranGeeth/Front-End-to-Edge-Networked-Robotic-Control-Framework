@@ -1,4 +1,4 @@
-# 4DOF Robot Arm
+# Fully Automated 4DOF Robot Arm
 
 ## Overview
 This project is a **4DOF robotic arm** powered by a **NodeMCU 32s ESP32**. It utilizes **four SG90 servos** for movement and is designed for **automatic pick and place operations, object moving and stacking, and Bluetooth control**. **Complete automation via a web interface is achieved in Version 3.0**.
