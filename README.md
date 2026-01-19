@@ -1,7 +1,7 @@
-# Fully Automated 4DOF Robot Arm
+# Front-End–to–Edge Networked Robotic Control Framework
 
 ## Overview
-This project is a **4DOF robotic arm** powered by a **NodeMCU 32s ESP32**. It utilizes **four SG90 servos** for movement and is designed for **automatic pick and place operations, object moving and stacking, and Bluetooth control**. **Complete automation via a web interface is achieved in Version 3.0**.
+This project is a **4DOF robotic arm** powered by a **NodeMCU 32s ESP32**. It utilizes **four SG90 servos** for movement and is designed for **automatic pick and place operations, object moving and stacking, via Bluetooth control as well as via a front-end through a Back-end implemented on an esp32**. **Complete automation via a web interface is achieved in Version 3.0**.
 
 ## Features
 - **Automatic Pick & Place**: Pre-programmed object pickup and placement.
